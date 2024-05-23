@@ -1,6 +1,6 @@
 
-let city="hyderabad"
-let a=20;
+
+let a=10;
 function number(){
 console.log(a);
 }
